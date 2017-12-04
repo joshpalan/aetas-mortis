@@ -1,4 +1,4 @@
-Smoking =  - 11 mins per cig
+[Smoking](https://github.com/joshpalan/aetas-mortis/blob/master/sources.md#1) =  - 10 mins per cig
 
 Walk 30 mins = + 45 mins
 
