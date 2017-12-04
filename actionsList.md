@@ -12,4 +12,4 @@ Floss = + 30 mins (only counts once)
 
 Coffee in AM = + 5 mins, unless more than 3 in a 3 hour period, then - 5 per
 
-Run 5 mins = + 15 mins 
+[1 Hour Aerobic Exercise](https://github.com/joshpalan/aetas-mortis/blob/master/sources.md#2) = + 2-3 Hours
