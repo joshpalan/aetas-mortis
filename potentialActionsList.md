@@ -1,29 +1,37 @@
-here is a list of possible activities/conditions that can affect a person's lifespan. 
+# Here is a list of possible activities/conditions that can affect a person's lifespan. 
 
-things that shorten lifespans
--smoking
--drinking
--etc drug use
--lack of sleep
--lack of exercise
--sedentary lifestyle
--stress
--obesity
--diseases
--virii
--heart conditions
--overconsumption of caffeine(?)
+✔️ - Verified
+🕐 - Some info available
 
-things that extend lifespans
--proper amount of sleep
--anaerobic exercise
--aerobic exercise
--clean eating
--abstaining from tobacco use
--abstaining from alcohol consumption
--meditation
--relaxation
--active lifestyle
--hygeine
+### Things that shorten lifespans:
+
+- smoking
+- drinking
+- etc drug use
+- lack of sleep
+- lack of exercise
+- sedentary lifestyle
+- stress
+- obesity/general diet
+- diseases
+- virii
+- heart conditions
+- overconsumption of caffeine(?)
+
+### Things that extend lifespans:
+
+- proper amount of sleep
+- anaerobic exercise
+- aerobic exercise
+    - ✔️ 1 Hour of Aerobic activity earns the user between 2-3 hours to their lives:
+        - https://www.hsph.harvard.edu/news/magazine/centennial-years-to-life/
+        - https://en.wikipedia.org/wiki/Ralph_Paffenbarger
+- clean eating
+- abstaining from tobacco use
+- abstaining from alcohol consumption
+- meditation
+- relaxation
+- active lifestyle
+- hygeine
 
 
