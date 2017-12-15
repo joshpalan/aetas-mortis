@@ -8,7 +8,10 @@
 - smoking
 - drinking
 - etc drug use
-- lack of sleep
+- sleep duration
+    - Lifespan linked to sleep:
+    - https://www.nhs.uk/news/lifestyle-and-exercise/lifespan-linked-to-sleep/
+    - "It said that sleeping less than six hours a night makes you 12% more likely to die prematurely than someone who sleeps up to eight hours.... [scientists] also found a 30% increase linked with nine or more hours."
 - lack of exercise
 - sedentary lifestyle
 - stress
